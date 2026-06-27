@@ -1,12 +1,12 @@
 # Steel-man
-"I have a position I want to test rigorously. Here it is in rough form:
+I have a position I want to test rigorously. Here it is in rough form:
 [PASTE YOUR IDEA IN 1–3 SENTENCES]
 Your job right now is to build the best possible version of this argument. Assume it is correct. Find the strongest evidence, the most compelling logic, and the most persuasive framing. Give me the steel-manned case — the version I'd be proud to defend publicly.
 Structure your response as: (1) the core claim in one sentence, (2) the three strongest supporting arguments, each with evidence or logic, (3) the most compelling real-world analogy or precedent, (4) why the obvious objections don't actually land.
-Write it as a clear argument of around 300 words. Don't hedge. Don't balance. This is advocacy, not analysis."
+Write it as a clear argument of around 300 words. Don't hedge. Don't balance. This is advocacy, not analysis.
 
-Example input: "We should stop sending weekly status update emails and replace them with a shared live dashboard."
-
+Example input: "We should stop sending weekly status update emails and replace them with a shared live dashboard.
+
 # Red team
 "Here is an argument I want you to attack:
 [PASTE THE ARGUMENT OR STEEL-MAN OUTPUT]
