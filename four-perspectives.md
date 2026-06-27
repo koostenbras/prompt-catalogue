@@ -15,7 +15,7 @@ Give me the three strongest objections. For each one: state the objection clearl
 Then end with one sentence: the single objection that, if true, would kill this idea entirely.
 Don't soften it. Don't steelman my position. Find what breaks."
 
-Example input: paste the steel-man output above, or any plan you've written.
+> quote Example input: paste the steel-man output above, or any plan you've written.
 
 # Shark Tank
 "You are a panel of three investors. Each has a different personality:
